@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MissoumYoucef
-- 👀 I’m interested in AI
+- 👀 I’m AI-Engineer
 - 🌱 I’m currently learning Generative AI and Data Engineering
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 How to reach me missoumleetcoding@gmail.com

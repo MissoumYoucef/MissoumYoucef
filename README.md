@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MissoumYoucef
-- 👀 I’m AI-Manager & Lead at CSE Club and a Backend-Engineer(Node js - Nest js)
+- 👀 I’m Future AI-Researcher
 - 🌱 I’m currently learning Data Engineering and DevOps
 - 💞️ I’m looking to collaborate on AI or SoftWare projects
 - 📫 How to reach me missoumleetcoding@gmail.com

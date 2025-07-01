@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MissoumYoucef
-- 👀 I’m Future AI-Researcher
-- 🌱 I’m currently learning Data Engineering and DevOps
+- 👀 I’m Future AI-Researcher and Engineer
 - 💞️ I’m looking to collaborate on AI or SoftWare projects
 - 📫 How to reach me missoumleetcoding@gmail.com
 - 😄 Pronouns: Missoum

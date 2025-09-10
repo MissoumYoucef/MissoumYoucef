@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MissoumYoucef
-- 👀 I’m Future AI-Researcher and Engineer
-- 💞️ I’m looking to collaborate on AI or SoftWare projects
+- 👀 I’m AI & Data Scientist
 - 📫 How to reach me missoumleetcoding@gmail.com
 - 😄 Pronouns: Missoum
 - ⚡ Fun fact: I love Competitions

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MissoumYoucef
-- 👀 I’m AI & Data Scientist
+- 👀 I’m ML - MLOps \ LLMOps Engineer 
 - 📫 How to reach me missoumleetcoding@gmail.com
 - 😄 Pronouns: Missoum
 - ⚡ Fun fact: I love Competitions

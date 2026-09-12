@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MissoumYoucef
 - 👀 I’m ML - MLOps \ LLMOps Engineer 
-- 📫 How to reach me missoumleetcoding@gmail.com
+- 📫 How to reach me missoum.missoumy@gmail.com
 - 😄 Pronouns: Missoum
 - ⚡ Fun fact: I love Competitions
 
